@@ -1,0 +1,5 @@
+{
+  "name": "batchclub-endpoint",
+  "private": true,
+  "type": "module"
+}
